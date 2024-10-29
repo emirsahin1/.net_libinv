@@ -6,6 +6,7 @@ Front end is built with Next.JS (only client side components)
 - cd to frontend invlib directory
 - npm run install
 - modfiy the .env file and modify the URL to point to the API backend
+- npm run dev
 
 ## Backend Instructions:
 - The backend requires a running Microsoft SQL Server

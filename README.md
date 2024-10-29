@@ -3,7 +3,7 @@
 ### Note: I did not have enough free time to bring the code to a fully prod-ready and clean state, but the functionality is all there.    Ignore the messy parts :)
 Front end is built with Next.JS (only client side components)
 ## Frontend Instructions:
-- cd to frontend directory
+- cd to frontend invlib directory
 - npm run install
 - modfiy the .env file and modify the URL to point to the API backend
 
